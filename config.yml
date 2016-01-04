@@ -1,0 +1,23 @@
+###############################
+##DO NOT EDIT BELOW THIS LINE##
+###############################
+Players:
+  USERNAME:
+    Licenses: Shop
+###############################
+##DO NOT EDIT ABOVE THIS LINE##
+###############################
+
+##########################
+##Config Below This Line##
+##########################
+Licenses:
+  Costs:
+    Shop: 20
+    Farm: 5000000
+    Corp: 10000000
+################################
+##1 For Enabled 0 for disabled##
+################################
+Economy:
+  Enabled: 1

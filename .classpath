@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/ChestShop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/Clearlag.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/CoreProtect_2.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/craftbukkit-1.7.9-R0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/Essentials.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/EssentialsAntiBuild.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/EssentialsChat.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/EssentialsGroupManager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/EssentialsProtect.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/EssentialsSpawn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/Lift.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/Multiverse-Core-2.4 (2).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/Multiverse-Core-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/Multiverse-Portals-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/ProtocolLib-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/Questioner.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/Tim.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/VoxelSniper-5.168.9-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/WirelessRedstone.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wintergrasp/Desktop/RPG-MODELS/BUILDING-FURNATURE/ChunkOwn-master/ChunkOwn-master/DEPEND_PLUGINS/WorldGuard.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

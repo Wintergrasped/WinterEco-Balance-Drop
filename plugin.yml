@@ -1,0 +1,55 @@
+name: WinterLicenseing
+main: net.wmcsn.Winter.WinterEco.main
+version: 0.0.1
+author: Wintergrasped
+depend: [Vault]
+website: http://76.121.14.90
+description: Wintergrasped API For Development
+load: POSTWORLD
+commands:
+  teamcreate:
+    description: Register a Shop
+    usage:
+  checkowner:
+    description: Register a Shop
+    usage:
+  regshop:
+    description: Register a Shop
+    usage:
+  regproductionfarm:
+    description: Register a Farm
+    usage:
+  regcorperation:
+    description: Register a Corperation
+    usage:
+  checkshopowner:
+    description: Check a Shop Owners Shop Number
+    usage:
+  checkfarmowner:
+    description: Check Farm Owners Number
+    usage:
+  checkcorperationowner:
+    description: Check a corperations Owners Number
+    usage:
+permissions:
+  baldrop.bypass:
+    description: |
+    default: false
+  license.buy.shop:
+    description: |
+    default: true
+  license.buy.farm:
+    description: |
+    default: true
+  license.buy.corp:
+    description: |
+    default: true
+  license.check.shop:
+    description: |
+    default: false
+  license.check.farm:
+    description: |
+    default: false
+  license.check.corp:
+    description: |
+    default: false
